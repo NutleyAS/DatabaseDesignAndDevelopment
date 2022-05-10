@@ -1,5 +1,5 @@
 # DatabaseDesignAndDevelopment
-This repository contains work and programming done for the Database &amp; Design module which was part of the HDip in Software Development at GMIT.
+This repository contains work and programming done for the Database &amp; Design module which was part of the HDip in Software Development at GMIT. This project used the XAMP web server solution stack package developed to develop the sql files which was done using MySQL.
 
 ## Project Brief
 
